@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @JS2K2
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Flask
 - 📫 How to reach me schmittjustin1170@gmail.com
 
 <!---
